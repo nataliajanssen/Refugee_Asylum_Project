@@ -1,4 +1,4 @@
-# refugee_asylum
+# Refugee and Asylum Applications
 
 Team Members: Natalia Janssen, Neema Helan Jaimon and Desh Deepak
 
